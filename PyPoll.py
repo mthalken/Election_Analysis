@@ -23,6 +23,11 @@ candidate_options = []
 #Declare the empty dictionary
 candidate_votes = {}
 
+#Winning candidate and winning count tracker
+winning_candidate = " "
+winning_count = 0
+winning_percentage = 0
+
 #Open the election results and read the file.
 with open(file_to_load) as election_data:
 
