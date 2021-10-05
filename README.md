@@ -12,26 +12,30 @@
 7. Create a text document to send to the Colorado Elections Commission.
 
 ### Resources
-- Sources of data: 
+- Sources of data: [election_results.cvs](https://github.com/mthalken/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.9.7, Visual Studio Code 1.60.2
+- Please see the [PyPoll_Challenge.py](https://github.com/mthalken/Election_Analysis/blob/main/PyPoll_Challenge.py) file to see code.
+- Please click [here](https://github.com/mthalken/Election_Analysis/blob/main/Resources/election_results_terminal.PNG) to see the terminal results.
 
 ## Summary and Results
-The analysis of the election data shows that:
-- There were "369,711" votes cast in the election within 3 counties.
-- Candidates:
-    - Chalres Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- Summary of Results:
-    - Chalres Casper Stockham received 85,213 number of votes, which is 23.0% of the total votes.
-    - Diana DeGette received 272,892 number of votes, which is 73.8% of the votes.
-    - Raymon Anthony Doane received 11,606 number of votes, which is 3.1% of the total votes.
-- Summary of County Results:
-    - Jefferson County had 38,855 total votes, which is 10.5% of the total votes.
-    - Denver County had 306,055 total votes, which is 82.8% of the total votes.
-    - Arapahoe County had 24,801 total votes, which is 6.7% of the total votes.    
-- The winner of the election was:
-    - Diana DeGette received 272,892 number of votes, which is 73.8% of the total votes.
+### The analysis of the election data shows that:
+### - There were "369,711" votes cast in the election within 3 counties.
+### - Candidates:
+###     - Chalres Casper Stockham
+###     - Diana DeGette
+###     - Raymon Anthony Doane
+### - Summary of Results:
+###     - Chalres Casper Stockham received 85,213 number of votes, which is 23.0% of the total votes.
+###     - Diana DeGette received 272,892 number of votes, which is 73.8% of the votes.
+###     - Raymon Anthony Doane received 11,606 number of votes, which is 3.1% of the total votes.
+### - Summary of County Results:
+###     - Jefferson County had 38,855 total votes, which is 10.5% of the total votes.
+###     - Denver County had 306,055 total votes, which is 82.8% of the total votes.
+###     - Arapahoe County had 24,801 total votes, which is 6.7% of the total votes.    
+### - The winner of the election was:
+###     - Diana DeGette received 272,892 number of votes, which is 73.8% of the total votes.
+
+![png](https://github.com/mthalken/Election_Analysis/blob/main/Resources/election_results_text.PNG)
 
 ## Election Audit Summary
 To the election commission:
