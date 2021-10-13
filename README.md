@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## The purpose of this analysis was to find and produce the results from data received from a Colorado Elections employee from their recent election.
 
@@ -39,5 +39,5 @@
 
 ## Election Audit Summary
 To the election commission:
-Thank you for the opportunity to code and present your election data. This code can be applied to all future elections if the csv. is consistant. As an option for future elections, I could re-structure the code with the option to allow the code to find and organize the columns if data is shown in a different format in the csv. This code could also be used for the whole state, all counties, and all local elections with a few changes. As an added benefit we could always add a timer to give the time it took to process all the data. 
+Thank you for the opportunity to code and present your election data. This code can be applied to all future elections if the csv. is consistent. As an option for future elections, I could re-structure the code with the option to allow the code to find and organize the columns if data is shown in a different format in the csv. This code could also be used for the whole state, all counties, and all local elections with a few changes. As an added benefit we could always add a timer to give the time it took to process all the data. 
 
